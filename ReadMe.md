@@ -1,7 +1,8 @@
 # Hi! I'm Adel Fetner, a Front End Dev. 🤓
 
 ## ✨ I'm a frontend developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities. ✨ 
-[![Gangster Ferret](https://media4.giphy.com/media/RdtdhcbzaRhuw/giphy.gif?cid=790b761100093df082fb8efc5e6516786518bf8643484f21&rid=giphy.gif)](https://www.youtube.com/watch?v=1QGVytQMUmE)
+[![Gangster Ferret](https://media4.giphy.com/media/RdtdhcbzaRhuw/giphy.gif?cid=790b761100093df082fb8efc5e6516786518bf8643484f21&rid=giphy.gif)](https://www.youtube.com/watch?v=1QGVytQMUmE) [![Gangster Ferret](https://media4.giphy.com/media/RdtdhcbzaRhuw/giphy.gif?cid=790b761100093df082fb8efc5e6516786518bf8643484f21&rid=giphy.gif)](https://www.youtube.com/watch?v=1QGVytQMUmE) [![Gangster Ferret](https://media4.giphy.com/media/RdtdhcbzaRhuw/giphy.gif?cid=790b761100093df082fb8efc5e6516786518bf8643484f21&rid=giphy.gif)](https://www.youtube.com/watch?v=1QGVytQMUmE)
+
 
 ## 💫 About Me:
 - 🔭 I'm a **Front End Dev**, currently focused on **building my Full-Stack skills**!
