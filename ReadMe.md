@@ -36,4 +36,3 @@
 
 # 📊  GitHub Streak!
 ![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=adelfetner&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=adelfetner&label=Profile%20Views&color=0)](https://visitcount.itsvg.in)
