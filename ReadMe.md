@@ -5,7 +5,7 @@
 - 🚀 Currently focused on **building my Full-Stack skills**!
 - 🎓 **FullStack / UX-UI / GD** student on **[NUCBA](https://nucba.com.ar/)**
 - 🌱 I'm **passionate** about **working with others**, new **technologies**, and **learning new things!**
-- 💑 **Open and looking to colaborate** on **Open Source Projects!**
+- 💑 **Open and looking to colaborate** on **socially impactful Open Source Projects!**
 - 🤝🏻 Always looking forward to **network** with other **designers/developers!**
 - 👽 Fun fact:  I'm fueled by shepherd's pie and coffee
 
