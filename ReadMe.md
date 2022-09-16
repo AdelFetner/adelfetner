@@ -35,4 +35,4 @@
 ---
 
 # 📊  GitHub Streak!
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adelfetner&theme=highcontrast&border=DD2727&background=000000&fire=DD2727)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=adelfetner&theme=highcontrast&border=DD2727&background=000000&fire=DD2727)
