@@ -36,3 +36,7 @@
 
 # 📊  GitHub Streak!
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=adelfetner&theme=highcontrast&border=DD2727&background=000000&fire=DD2727)
+
+# 🎧 My recently played music
+
+![Spotify recently played!](https://spotify-recently-played-readme.vercel.app/api?user=31tbbslke6zuqz62xrhkvppt6woa)
