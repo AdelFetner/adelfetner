@@ -2,11 +2,10 @@
 
 ## ✨ I'm a Front End developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities. ✨ 
 ## 💫 About Me:
-- 🚀 Currently focused on **building my Full-Stack skills**!
-- 🎓 **FullStack / UX-UI / GD** student on **[![NUCBA](https://img.shields.io/badge/NUCBA%20%F0%9F%A4%93-black.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABDlBMVEX////+//7+//8AAAD////////////////////////////////////////////+//7+//7////////////+/v7+//7////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+///+/v7///////////////8zyHzPAAAAWXRSTlMAAAAABSVeqOhfCmOr3PhkCgxz5XQRmT4ynfKeNkyp5OqJKL/8/cBOM/HiudRkJGttLHTet47++iIpxIxdYu9c7j0g3R8HkfaGBg116eFmCETIvDixW1SfGwvjijMAAAABYktHRACIBR1IAAAAB3RJTUUH5gsQBBcNVztkRgAAAKdJREFUCNc1i1USwlAUQwOFFivu7u7S4u7ucPe/EXjI+cjkTCYAVGpe0GgErVqlUEKnN4hGemMUDSYzLFYb/bDZHXC63B4vE6/PHwgiFI5EA7F4IplKOzNZ5IjyhWKpXKnWiOpoSERyvdlqJ4ikDgoyO3a7LOUeXH1W+AHL4QjjyUc/qzjFbC7/dbFcAevN9qu7/QGM40nS8vHzBeDAcUDxers/nm/jXs1NJ0Z7oeb2AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTExLTE2VDA0OjIzOjEzKzAwOjAwyt7EnAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0xMS0xNlQwNDoyMzoxMyswMDowMLuDfCAAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjItMTEtMTBUMTk6MDk6NTcrMDA6MDBab7byAAAAOHRFWHRpY2M6Y29weXJpZ2h0AENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueflXeTcAAAAhdEVYdGljYzpkZXNjcmlwdGlvbgBzUkdCIElFQzYxOTY2LTIuMVet2kcAAAAmdEVYdGljYzptYW51ZmFjdHVyZXIASUVDIGh0dHA6Ly93d3cuaWVjLmNoHH8ATAAAADd0RVh0aWNjOm1vZGVsAElFQyA2MTk2Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNlIC0gc1JHQkRTSKkAAAAASUVORK5CYII=)](https://nucba.com.ar/)**
+- 🚀 Currently focused on **building my Full-Stack skills**
 - 🌱 I'm **passionate** about **working with others**, new **technologies**, and **learning new things!**
-- 💑 **Open and looking to colaborate** on **socially impactful Open Source Projects!**
-- 🤝🏻 Always looking forward to **network** with other **designers/developers!**
+- 💑 **Open and looking to collaborate** on **socially impactful Open Source Projects!**
+- 🤝🏻 Always looking forward to **networking** with other **designers/developers!**
 - 👽 Fun fact:  I'm fueled by shepherd's pie and coffee
 
 ---
