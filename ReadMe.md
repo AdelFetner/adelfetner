@@ -38,3 +38,6 @@
 # 🎧 My recently played songs
 
 ![Spotify recently played!](https://spotify-recently-played-readme.vercel.app/api?user=31tbbslke6zuqz62xrhkvppt6woa)
+
+# CodeWars
+![Codewars!](https://www.codewars.com/users/Adel%20Fetner/badges/large?logo=false)
