@@ -1,4 +1,4 @@
-# Hi! I'm Adel Fetner, a Front End Dev. 🤓
+# Hi! I'm [Adel Fetner](https://adelfetner.com/dashboard), a Front End Dev. 🤓
 
 ## ✨ I'm a Front End developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities. ✨ 
 ## 💫 About Me:
