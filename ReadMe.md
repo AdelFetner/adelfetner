@@ -10,9 +10,10 @@
 
 ---
 # 🌐 Find me here!
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadel-fetner%2F)](https://www.linkedin.com/in/adel-fetner)
+[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadel-fetner%2F)](https://www.linkedin.com/in/adelfetner)
 [![Twitter URL](https://img.shields.io/twitter/url?color=lightblue&label=Twitter%21&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fadelfetner)](https://twitter.com/adelfetner)\
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23FD1D1D&label=Instagram%21&logo=Instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fadelfetner%2F)](https://www.instagram.com/adelfetner)
+[![Website URL](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adelfetner.com/dashboard)
 [![Linktree URL](https://img.shields.io/twitter/url?color=%23ACDC5C&label=Linktree&logo=linktree&style=for-the-badge&url=https%3A%2F%2Flinktr.ee%2FAdelFetner)](https://linktr.ee/AdelFetner)\
 [![GitHub followers](https://img.shields.io/github/followers/adelfetner?color=%23DD332B&label=Follow%20me%21&logo=github&logoColor=white&style=for-the-badge)](https://github.com/AdelFetner)
 
