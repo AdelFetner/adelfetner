@@ -10,30 +10,25 @@
 
 ---
 # 🌐 Find me here!
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadel-fetner%2F)](https://www.linkedin.com/in/adelfetner)
-[![Twitter URL](https://img.shields.io/twitter/url?color=lightblue&label=Twitter%21&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fadelfetner)](https://twitter.com/adelfetner)\
-[![Instagram URL](https://img.shields.io/twitter/url?color=%23FD1D1D&label=Instagram%21&logo=Instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fadelfetner%2F)](https://www.instagram.com/adelfetner)
-[![Website URL](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adelfetner.com/dashboard)
-[![Linktree URL](https://img.shields.io/twitter/url?color=%23ACDC5C&label=Linktree&logo=linktree&style=for-the-badge&url=https%3A%2F%2Flinktr.ee%2FAdelFetner)](https://linktr.ee/AdelFetner)\
-[![GitHub followers](https://img.shields.io/github/followers/adelfetner?color=%23DD332B&label=Follow%20me%21&logo=github&logoColor=white&style=for-the-badge)](https://github.com/AdelFetner)
+[![LinkedIn URL](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adelfetner)
+[![Twitter URL](https://skillicons.dev/icons?i=twitter)](https://twitter.com/adelfetner)
+[![Instagram URL](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adelfetner)
+[![Website URL](https://skillicons.dev/icons?i=vercel)](https://adelfetner.com/dashboard)
 
 ---
 
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)\
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)\
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
+![React](https://skillicons.dev/icons?i=react)
+![Typescript](https://skillicons.dev/icons?i=ts)
+![Next.JS](https://skillicons.dev/icons?i=nextjs)
+![Javascript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)\
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+![Node.JS](https://skillicons.dev/icons?i=nodejs)
+![Java](https://skillicons.dev/icons?i=java)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ---
 
 # 📊  GitHub Streak!
