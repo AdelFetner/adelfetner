@@ -40,3 +40,6 @@
 
 # CodeWars
 ![Codewars!](https://www.codewars.com/users/Adel%20Fetner/badges/large?logo=false)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/AdelFetner/adelfetner/assets/77463982/634de14c-47c2-4903-a441-0832dc9326fc');]{x0000}$}
