@@ -1,11 +1,11 @@
-# Hi! I'm [Adel Fetner](https://adelfetner.com/dashboard), a software Dev. 🤓
+# Hi, I'm [Adel Fetner](https://adelfetner.com/dashboard)!
+## I'm a software developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities. 🚀
 
-## ✨ I'm a software developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities. ✨ 
 ## 💫 About Me:
-- 🚀 Currently focused on **building my Full-Stack skills**
-- 🌱 I'm **passionate** about **working with others**, new **technologies**, and **learning new things!**
-- 💑 **Open and looking to collaborate** on **socially impactful Open Source Projects!**
-- 🤝🏻 Always looking forward to **networking** with other **designers/developers!**
+- 🌱 Dev at Polilat!
+- 🚀 Lately I've been really into **competitive programming**, reading and doing BeeCrowd exercises to improve!
+- 💑 **Open to collaborate** on **socially impactful Open Source Projects!**
+- 🤝🏻 Always looking forward to **meeting** with other **designers/developers!**
 - 👽 Fun fact:  I'm fueled by shepherd's pie and coffee
 
 ---
@@ -14,8 +14,6 @@
 [![Twitter URL](https://skillicons.dev/icons?i=twitter)](https://twitter.com/adelfetner)
 [![Instagram URL](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adelfetner)
 [![Website URL](https://skillicons.dev/icons?i=vercel)](https://adelfetner.com/dashboard)
-
----
 
 
 # 💻 Tech Stack:
@@ -29,7 +27,6 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
----
 
 # 📊  GitHub Streak!
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=adelfetner&theme=highcontrast&border=DD2727&background=000000&fire=DD2727)
