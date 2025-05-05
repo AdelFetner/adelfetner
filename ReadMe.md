@@ -2,7 +2,7 @@
 ## I'm a software developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities.
 
 ## About Me:
--  Dev at Polilat!
+-  Dev at Crombie!
 - Lately I've been really into **competitive programming**, reading and doing BeeCrowd exercises to improve!
 - **Open to collaborate** on **socially impactful Open Source Projects!**
 - Always looking forward to **meeting** with other **designers/developers!**
