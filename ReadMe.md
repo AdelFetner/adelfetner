@@ -1,24 +1,17 @@
 # Hi, I'm [Adel Fetner](https://adelfetner.com/dashboard)!
-## I'm a software developer passionate about making the web accessible to everyone and advocated to build open and inclusive developer communities.
+## I'm a software engineer with focus on product. I thrive in high-expectations high-growth environments
 
 ## About Me:
--  Dev at Crombie!
-- Lately I've been really into **competitive programming**, reading and doing BeeCrowd exercises to improve!
-- **Open to collaborate** on **socially impactful Open Source Projects!**
-- Always looking forward to **meeting** with other **designers/developers!**
-- Fun fact:  I'm fueled by shepherd's pie and coffee
+- **Software Engineer** at the **Secretariat of Management Technologies**, within the **Ministry of Government and Public Innovation**, spearheading AI innovation, advanced architectures, and high-impact scalable systems
+- **Open to collaborate** on **Open Source Projects!**
 
 ---
 # 🌐 Find me here!
-[![LinkedIn URL](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adelfetner)
+[![LinkedIn URL](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brunoagdev)
 [![Twitter URL](https://skillicons.dev/icons?i=twitter)](https://twitter.com/adelfetner)
 [![Instagram URL](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adelfetner)
 [![Website URL](https://skillicons.dev/icons?i=vercel)](https://adelfetner.com/dashboard)
 
 
 # 💻 Tech Stack:
-![React](https://skillicons.dev/icons?i=react)
-![Typescript](https://skillicons.dev/icons?i=ts)
-![Next.JS](https://skillicons.dev/icons?i=nextjs)
-![Javascript](https://skillicons.dev/icons?i=js)
-![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,aws,gcp,java,spring,js&perline=4)
