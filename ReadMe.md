@@ -1,4 +1,4 @@
-# Hi, I'm [Adel Fetner](https://adelfetner.com/dashboard)!
+# Hi, I'm [Adel Fetner](https://adelfetner.com)!
 ## I'm a software engineer with focus on product. I thrive in high-expectations high-growth environments
 
 ## About Me:
